@@ -1,0 +1,31 @@
+{
+  "name": "tinymce-5-vue",
+  "version": "1.0.0",
+  "description": "TinyMCE Vue.js integration demo",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "dev": "webpack --mode development",
+    "watch": "webpack --mode development --watch"
+  },
+  "author": "Marty Friedel",
+  "license": "ISC",
+  "homepage": "https://github.com/martyf/tinymce-5-vue#readme",
+  "devDependencies": {
+    "@tinymce/tinymce-vue": "^3.0.1",
+    "copy-webpack-plugin": "^5.0.5",
+    "css-loader": "^3.2.0",
+    "mini-css-extract-plugin": "^0.8.0",
+    "node-sass": "^4.13.0",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^8.0.0",
+    "style-loader": "^1.0.0",
+    "uglify-es": "^3.3.9",
+    "vue": "^2.6.10",
+    "vue-loader": "^15.7.2",
+    "vue-style-loader": "^4.1.2",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
