@@ -8,7 +8,7 @@ Read along at [https://www.martyfriedel.com/blog/integrating-tiny-with-vue-in-a-
 ## How to use
 Open **index.html** in a web browser and you can see the pre-built code doing its thing.
 
-You can also look at [http://tiny-vue.martyfriedel.com](http://tiny-vue.martyfriedel.com)
+You can also look at [https://tiny-vue.martyfriedel.com](https://tiny-vue.martyfriedel.com)
 
 If you would like to play with the code, clone the repository then:
 ```
@@ -29,4 +29,4 @@ npm run watch
 A build script is available too which will hash each output file. For dev purposes, it is easier 
 to not have to worry about the hashed files, so "dev" and "watch" are your best bet.
 
-**IMPORTANT:** Don't forget to add your Tiny API key in "index.html"
+**IMPORTANT:** Don't forget to add your Tiny API key in "index.html". You can sign up for a free Tiny API at [https://tiny.cloud](https://tiny.cloud)
