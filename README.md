@@ -8,8 +8,6 @@ Read along at [https://www.martyfriedel.com/blog/integrating-tiny-with-vue-in-a-
 ## How to use
 Open **index.html** in a web browser and you can see the pre-built code doing its thing.
 
-You can also look at [https://tiny-vue.martyfriedel.com](https://tiny-vue.martyfriedel.com)
-
 If you would like to play with the code, clone the repository then:
 ```
 npm install
